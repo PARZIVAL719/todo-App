@@ -11,7 +11,7 @@ This is a simple **Todo List** app. It is made with **React** for the frontend, 
 - **Delete tasks** when you no longer need them.
 - Tasks are saved in a **MongoDB** database so you don’t lose them.
 
-## Framework Used
+## Tools Used
 
 - **Frontend**: React
 - **Backend**: Express.js
